@@ -69,7 +69,8 @@ Aqui estão algumas telas do sistema desenvolvidas no **NetBeans**:
 
 O projeto foi desenvolvido como parte do **Projeto Integrador (PI) do curso Técnico em Desenvolvimento de Sistemas – SENAC**.
 
-📎 **Acesse a documentação completa:** [Projeto_Integrador.pdf](ProjetoIntegrador_PI - Atividade 1 - Senac.pdf)
+📎 **Acesse a documentação completa:** 
+[Projeto_Integrador.pdf](caminho_para_o_arquivo)
 
 
 ## 📌 Como Executar o Projeto
