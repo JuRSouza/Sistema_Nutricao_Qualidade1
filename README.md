@@ -70,7 +70,7 @@ Aqui estão algumas telas do sistema desenvolvidas no **NetBeans**:
 O projeto foi desenvolvido como parte do **Projeto Integrador (PI) do curso Técnico em Desenvolvimento de Sistemas – SENAC**.
 
 📎 **Acesse a documentação completa:** 
-[Projeto_Integrador.pdf]([caminho_para_o_arquivo](https://github.com/JuRSouza/Sistema_Nutricao_Qualidade1/blob/main/ProjetoIntegrador_PI%20-%20Atividade%201%20-%20Senac.pdf))
+[Projeto_Integrador.pdf](https://github.com/JuRSouza/Sistema_Nutricao_Qualidade1/blob/main/ProjetoIntegrador_PI%20-%20Atividade%201%20-%20Senac.pdf)
 
 
 ## 📌 Como Executar o Projeto
