@@ -77,7 +77,7 @@ O projeto foi desenvolvido como parte do **Projeto Integrador (PI) do curso Téc
 
 1. Clone este repositório:
 ```bash
- git clone https://github.com/seu-usuario/Sistema_Nutricao_Qualidade.git
+ git clone https://github.com/JurSouza/Sistema_Nutricao_Qualidade1.git
 ```
 2. Abra o projeto no **NetBeans**
 3. Configure o **banco de dados MySQL** com o script disponível na pasta `/database`
@@ -92,10 +92,5 @@ Se você deseja contribuir, siga estas etapas:
 3. Faça suas alterações e commit (`git commit -m "Minha contribuição"`)  
 4. Envie para o repositório remoto (`git push origin minha-branch`)  
 5. Abra um **Pull Request**  
-
-## 📩 Contato
-
-👩‍💻 **Desenvolvedora:** [Juliana Rodrigues](https://github.com/seu-usuario)  
-📧 Email: [seu-email@email.com](mailto:seu-email@email.com)  
-🔗 **LinkedIn:** [Seu LinkedIn](https://www.linkedin.com/in/seu-usuario)  
+ 
 
