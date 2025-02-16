@@ -56,13 +56,13 @@ O sistema possui diferentes **níveis de acesso**, garantindo maior controle e s
 Aqui estão algumas telas do sistema desenvolvidas no **NetBeans**:
 
 ### 🖥️ **Tela de Cadastro de Usuários**
-![Cadastro de Usuários](caminho_para_a_imagem)
+![Cadastro de Usuários](imagens/cadastro_usuarios.png)
 
 ### 📂 **Tela de Inclusão de Documentos**
-![Inclusão de Documentos](caminho_para_a_imagem)
+![Inclusão de Documentos](imagens/inclusao_documentos.png)
 
 ### 📝 **Tela de Cadastro de Relatórios**
-![Cadastro de Relatórios](caminho_para_a_imagem)
+![Cadastro de Relatórios](imagens/cadastro_relatorios.png)
 
 
 ## 📑 Documentação do Projeto
